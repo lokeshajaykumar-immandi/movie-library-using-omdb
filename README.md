@@ -1,10 +1,12 @@
-# movie-library-using-omdb
+# Movie Watchlist API Project
 
-to run this webapplication you will need to have a local server,in this web application i have used xampp for local server
-#step1-download and extract the zipfile of this project.
-#step2-open xampp directory in your computer.
-#step3-find the folder name htdocs.
-#step4-delete all the files in the htdocs.
-#step5-paste all the extracted from from the project and paste in into the folder htdocs, follow step 3.
-#step6-open xampp and start Apache and Mysql and click admin to automatically navigate to project on the local server
-#step7-thats it no more steps('/')
+A solo project from Scrimba (all code is from scratch). The only resource provided was a Figma design file and a link to use the [OMBb API](https://www.omdbapi.com/) and the following requirements:
+
+-   Two pages - index.html and watchlist.html.
+-   Index = search page. Calls to OMDB API with the title searched for and displays search results.
+-   Button to "add to watchlist" which saves that data to local storage.
+-   Watchlist.html loads and displays data from local storage.
+
+## Video Walkthrough
+
+In addition to coding this project, I've also [recorded a project walkthrough video](https://www.youtube.com/watch?v=KUUSwCAUF0k) that you can watch on YouTube.
