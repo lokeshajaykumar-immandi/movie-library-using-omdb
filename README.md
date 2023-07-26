@@ -20,3 +20,6 @@
  before pasting the files in htdocs
 -   step4- click admin in xampp tool it will be on the left side of apache which you have turn oned in step2
 -   step5-you will be navigated to localhost webserver and your project wil be shown on your browser
+  
+![Uploading Screenshot (1539).png…]()
+
