@@ -8,7 +8,9 @@
 -   Watchlist.html loads and displays data from local storage.
   
 ![Screenshot (1543)](https://github.com/lokesh-immandi/movie-library-using-omdb/assets/63138397/ff6cdda9-1f04-42e6-84b0-1d86a4f6fd35)
+
 ![Screenshot (1544)](https://github.com/lokesh-immandi/movie-library-using-omdb/assets/63138397/a0f258fa-d171-4df4-99c7-43e620ffddb9)
+
 ![Screenshot (1545)](https://github.com/lokesh-immandi/movie-library-using-omdb/assets/63138397/1c9d0c97-beb5-4c66-9513-6f8771eca5b6)
 
 
